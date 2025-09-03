@@ -32,6 +32,10 @@ This project implements a basic blockchain system in Java, extended to support *
 - Transactions consume previous UTXOs and generate new ones.
 - Sample wallets demonstrate the creation and transfer of cryptocurrency.
 
+## TO DO LIST
+-Have to work on UI
+-Documentation
+
 ## How to Run
 
 1. Clone the repository:
